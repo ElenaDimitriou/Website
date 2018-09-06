@@ -3,7 +3,7 @@ layout: post
 title:  "The Science-Policy Interface - Meet the Experts"
 date:   2018-06-18 21:15:05 +0000
 excerpt: "This professional development activity is a Researcher-Led Initiative that is funded by the University of Exeter Researcher Development & Research Culture Team."
-image: /assets/images/architecture-big-ben-bridge-258117.jpg
+image: assets/images/architecture-big-ben-bridge-258117.jpg
 ---
 
 This professional development activity is a Researcher-Led Initiative that is funded by the University of Exeter Researcher Development & Research Culture Team.
