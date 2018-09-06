@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "The Science-Policy Interface - Meet the Experts"
-date:   2018-08-24 21:15:05 +0000
+date:   2018-06-18 21:15:05 +0000
 excerpt: "This professional development activity is a Researcher-Led Initiative that is funded by the University of Exeter Researcher Development & Research Culture Team."
-image: /assets/images/OxfordCameraSmallPreview.png
+image: /assets/images/architecture-big-ben-bridge-258117.jpg
 ---
 
 This professional development activity is a Researcher-Led Initiative that is funded by the University of Exeter Researcher Development & Research Culture Team.
@@ -32,9 +32,6 @@ Academics from Exeter and Plymouth Universities (Prof Ian Bateman, Dr Lindsay Wa
  
 
 
-![Quick snap of Radcliffe Camera I took during the group quiz.](/assets/images/OxfordCameraSmall.png)
- 
-Quick snap of Radcliffe Camera I took during the group quiz.
 
 
 
