@@ -10,8 +10,8 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: My PhD Project
-project_one_description: My PhD involves the estimation of an object’s shape, reflectance and surface topography from photographs using machine learning and artificial intelligence approaches.
-project_one_url: http://emps.exeter.ac.uk/computer-science/staff/mm757 
+project_one_description: My ESRC funded PhD research project focuses on sexual harassment complaints procedures.
+project_one_url: http://psychology.exeter.ac.uk/staff/index.php?web_id=Elena_Dimitriou
 project_one_icon: location_on
 
 project_two: RTI Group at Exeter
