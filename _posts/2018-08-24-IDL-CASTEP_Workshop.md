@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "CASTEP Training Workshop | University of Oxford"
+title:  "The Science-Policy Interface - Meet the Experts"
 date:   2018-08-24 21:15:05 +0000
-excerpt: "I attended the CASTEP electron microscopy training workshop at Oxford University. I refreshed my knowledge on solid state physics and enjoyed being updated on current research."
+excerpt: "This professional development activity is a Researcher-Led Initiative that is funded by the University of Exeter Researcher Development & Research Culture Team."
 image: /assets/images/OxfordCameraSmallPreview.png
 ---
-I attended the CASTEP electron microscopy training workshop at the University of Oxford. I refreshed my knowledge on solid state physics and enjoyed being updated on current research. I met plenty of interesting people from different disciplines here too.
 
 This professional development activity is a Researcher-Led Initiative that is funded by the University of Exeter Researcher Development & Research Culture Team.
+
+
 Evidence based policy making is needed more than ever, yet there is a dislocation between university research and policy.
 The workshop will introduce the science-policy interface and explore ways of engaging with the policy world. It will help PhD students understand why research for policy making is important and how it can be achieved throughout their careers.
 Through a series of case studies and panel discussions with external experts and leading academics, the following questions will be addressed-
